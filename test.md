@@ -13,4 +13,3 @@
 
 Reset info
 
-BBC
